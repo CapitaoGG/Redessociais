@@ -39,6 +39,7 @@ body {
   com menos codigos*/
 
   background: var(--bg-url) no-repeat top center / cover;
+  height: 100vh;
 }
 
 #container {
